@@ -8,4 +8,4 @@ Get a copy of ImageMagick : https://www.imagemagick.org/script/download.php#wind
 Do `magick.exe mogrify -resize AxB -path / input.ext output.ext` where (A, B) is the target resolution and input output for batch conversion can be any image format `*.png` `*.jpg` etc.
 
 # Alternative
-Alternatively get Gimp use it : https://download.gimp.org/pub/gimp/v2.10/windows/
+Alternatively get Gimp use it : https://www.gimp.org/downloads/
